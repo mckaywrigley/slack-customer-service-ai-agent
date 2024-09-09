@@ -2,9 +2,11 @@
 
 This is a full-stack app template for courses on [Takeoff](https://JoinTakeoff.com/).
 
+Template Link: https://github.com/mckaywrigley/mckays-app-template
+
 We will be building a production grade customer support app in a course this month!
 
-We'll also be going deeper in a separate "AI Agents" course.
+We'll also be doing a deep dive into AI Agents in a separate "AI Agents" course.
 
 Expect both by the end of September.
 
