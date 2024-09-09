@@ -2,6 +2,12 @@
 
 This is a full-stack app template for courses on [Takeoff](https://JoinTakeoff.com/).
 
+We will be building a production grade customer support app in a course this month!
+
+We'll also be going deeper in a separate "AI Agents" course.
+
+Expect both by the end of September.
+
 ## Sponsors
 
 If you are interested in sponsoring my repos, please contact me at [ads@takeoffai.org](mailto:ads@takeoffai.org).
